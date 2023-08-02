@@ -1,0 +1,9 @@
+{
+    "plugin_name": "Star_weaving_agent_download",
+    "version": "1.0",
+    "description": "星织代理下载",
+    "icon": "Cloth.png",
+    "author": "星织",
+    "author_email": "rc@163.com",
+    "on_new_thread": true
+  }
